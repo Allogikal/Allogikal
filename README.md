@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **VueJS, Laravel, CMS Wordpress**
 
-- 👯 I’m looking to collaborate on [Vmeste](https://github.com/Allogikal/_vmeste_.git)
-
-- 🤝 I’m looking for help with [Vmeste](https://github.com/Allogikal/_vmeste_.git)
-
 - 💬 Ask me about **vue, laravel**
 
 - 📫 How to reach me **kimag200324@bk.ru**
