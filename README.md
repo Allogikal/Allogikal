@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Agogy](https://github.com/Allogikal/agogy.git)
 
-- 🌱 I’m currently learning **VueJS, Laravel, CMS Wordpress**
+- 🌱 I’m currently learning **VueJS, Javascript, CMS Wordpress**
 
-- 💬 Ask me about **vue, laravel**
+- 💬 Ask me about **vue, javascript**
 
 - 📫 How to reach me **kimag200324@bk.ru**
 
