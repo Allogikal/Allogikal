@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kimag200324@bk.ru**
 
-- 📄 Know about my experiences [https://www.figma.com/file/0KieYMqxMBmlYBp7sRgaW8/CV-(en_ru)?node-id=0%3A1&t=sjOJnY0ikimJT1mu-0](https://www.figma.com/file/0KieYMqxMBmlYBp7sRgaW8/CV-(en_ru)?node-id=0%3A1&t=sjOJnY0ikimJT1mu-0)
+- 📄 Know about my experiences https://disk.yandex.ru/d/Q_HJyHaw7NYEMg
 
 - ⚡ Fun fact **I'm lazy**
 
