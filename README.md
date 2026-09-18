@@ -7,4 +7,4 @@
 
 - 📫 How to reach me **kimag200324@bk.ru**
 
-- 📄 Know about my experiences https://disk.yandex.ru/d/Q_HJyHaw7NYEMg
+- 📄 Know about my experiences [resume](https://astrakhan.hh.ru/resume/df3914d0ff0b0cdc710039ed1f494377476a47)
